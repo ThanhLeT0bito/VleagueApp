@@ -1,0 +1,10 @@
+^C:\USERS\GF\DEVELOPMENT\PROJECTS\VLEAGUE_APP\BUILD\WINDOWS\CMAKEFILES\83FA6C58A6EE2632FB58766CAC0B2A39\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SC:/Users/GF/development/projects/vleague_app/windows -BC:/Users/GF/development/projects/vleague_app/build/windows --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file C:/Users/GF/development/projects/vleague_app/build/windows/vleague_app.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

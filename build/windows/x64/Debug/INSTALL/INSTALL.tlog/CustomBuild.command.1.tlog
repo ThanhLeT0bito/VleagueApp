@@ -1,0 +1,10 @@
+^C:\USERS\GF\DEVELOPMENT\PROJECTS\VLEAGUE_APP\BUILD\WINDOWS\CMAKEFILES\83FA6C58A6EE2632FB58766CAC0B2A39\INSTALL_FORCE.RULE
+setlocal
+cd .
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

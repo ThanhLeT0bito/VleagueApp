@@ -1,0 +1,9 @@
+C:/Users/GF/development/projects/vleague_app/build/windows/runner/Debug/data/icudtl.dat
+C:/Users/GF/development/projects/vleague_app/build/windows/runner/Debug/flutter_windows.dll
+C:/Users/GF/development/projects/vleague_app/build/windows/runner/Debug/data/flutter_assets/AssetManifest.json
+C:/Users/GF/development/projects/vleague_app/build/windows/runner/Debug/data/flutter_assets/FontManifest.json
+C:/Users/GF/development/projects/vleague_app/build/windows/runner/Debug/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+C:/Users/GF/development/projects/vleague_app/build/windows/runner/Debug/data/flutter_assets/kernel_blob.bin
+C:/Users/GF/development/projects/vleague_app/build/windows/runner/Debug/data/flutter_assets/NOTICES.Z
+C:/Users/GF/development/projects/vleague_app/build/windows/runner/Debug/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+C:/Users/GF/development/projects/vleague_app/build/windows/runner/Debug/data/flutter_assets/shaders/ink_sparkle.frag

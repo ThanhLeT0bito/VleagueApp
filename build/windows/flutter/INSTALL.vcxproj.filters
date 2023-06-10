@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\GF\development\projects\vleague_app\build\windows\CMakeFiles\0a8ae88839128e3bca77bee73a395e58\INSTALL_force.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{05F1B0DF-C83D-37B7-96F7-3718A43799AC}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
